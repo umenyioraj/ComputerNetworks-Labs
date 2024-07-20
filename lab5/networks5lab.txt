@@ -1,0 +1,97 @@
+Host A: Packet 1 Sent
+Host B: Packet 1 Recieved
+Host B: ACK 1 Sent
+Host A: ACK 1 Recieved
+Host A: Packet 2 Sent
+Packet 2 Lost
+Host A: Packet 2 Sent
+Packet 2 Recived, Dropped due to bit error
+Host A: Packet 2 Sent
+Host B: Packet 2 Recieved
+Host B: ACK 2 Sent
+Host A: ACK 2 Recieved
+Host A: Packet 3 Sent
+Host B: Packet 3 Recieved
+Host B: ACK 3 Sent
+Host A: ACK 3 Recieved
+Host A: Packet 4 Sent
+Packet 4 Recived, Dropped due to bit error
+Host A: Packet 4 Sent
+Host B: Packet 4 Recieved
+Host B: ACK 4 Sent
+Host A: ACK 4 Recieved
+Host A: Packet 5 Sent
+Host B: Packet 5 Recieved
+Host A: Timeout
+Host A: Packet 5 Sent
+Host B: Packet 5 Recieved
+Host B: ACK 5 Sent
+Host A: ACK 5 Recieved
+Host A: Packet 6 Sent
+Host B: Packet 6 Recieved
+Host B: ACK 6 Sent
+Host A: ACK 6 Recieved
+Host A: Packet 7 Sent
+Host B: Packet 7 Recieved
+Host B: ACK 7 Sent
+Host A: ACK 7 Recieved
+Host A: Packet 8 Sent
+Host B: Packet 8 Recieved
+Host B: ACK 8 Sent
+Host A: ACK 8 Recieved
+Host A: Packet 9 Sent
+Host B: Packet 9 Recieved
+Host B: ACK 9 Sent
+Host A: ACK 9 Recieved
+Host A: Packet 10 Sent
+Host B: Packet 10 Recieved
+Host B: ACK 10 Sent
+Host A: ACK 10 Recieved
+Host A: Packet 11 Sent
+Packet 11 Recived, Dropped due to bit error
+Host A: Packet 11 Sent
+Host B: Packet 11 Recieved
+Host B: ACK 11 Sent
+Host A: ACK 11 Recieved
+Host A: Packet 12 Sent
+Host B: Packet 12 Recieved
+Host B: ACK 12 Sent
+Host A: ACK 12 Recieved
+Host A: Packet 13 Sent
+Host B: Packet 13 Recieved
+Host B: ACK 13 Sent
+Host A: ACK 13 Recieved
+Host A: Packet 14 Sent
+Host B: Packet 14 Recieved
+Host B: ACK 14 Sent
+Host A: ACK 14 Recieved
+Host A: Packet 15 Sent
+Packet 15 Recived, Dropped due to bit error
+Host A: Packet 15 Sent
+Host B: Packet 15 Recieved
+Host B: ACK 15 Sent
+Host A: ACK 15 Recieved
+Host A: Packet 16 Sent
+Host B: Packet 16 Recieved
+Host B: ACK 16 Sent
+Host A: ACK 16 Recieved
+Host A: Packet 17 Sent
+Host B: Packet 17 Recieved
+Host B: ACK 17 Sent
+Host A: ACK 17 Recieved
+Host A: Packet 18 Sent
+Host B: Packet 18 Recieved
+Host B: ACK 18 Sent
+Host A: ACK 18 Recieved
+Host A: Packet 19 Sent
+Packet 19 Recived, Dropped due to bit error
+Host A: Packet 19 Sent
+Host B: Packet 19 Recieved
+Host B: ACK 19 Sent
+Host A: ACK 19 Recieved
+Host A: Packet 20 Sent
+Packet 20 Recived, Dropped due to bit error
+Host A: Packet 20 Sent
+Host B: Packet 20 Recieved
+Host B: ACK 20 Sent
+Host A: ACK 20 Recieved
